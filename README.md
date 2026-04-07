@@ -49,6 +49,6 @@ KAGGLE_USERNAME=your_username
 KAGGLE_API_KEY=your_api_key
 ## 4. Sử dụngPythonfrom main import process_accident_video
 # Phân tích video và xuất kết quả
-results = process_accident_video('traffic_cctv.mp4', output_path='analysis_result.mp4')
-## 💡Tác giảHoàng Bảo (Bill)
-## Lĩnh vực: Computer Science / AI & Machine Learning.
+'''
+💡Tác giả: Hoàng Bảo 
+
